@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mistertime
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://misterti.me
+  * I am mistertime (https://keybase.io/mistertime) on keybase.
+  * I have a public key ASC4fF0ywsk-KXS94Ie66xbCGTiSQd1HdGMMvzcWA4xotwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b87c5d32c2c93e2974bde087baeb16c219389241dd4774630cbf3716038c68b70a",
+            "host": "keybase.io",
+            "kid": "0120b87c5d32c2c93e2974bde087baeb16c219389241dd4774630cbf3716038c68b70a",
+            "uid": "0797ac70618f95566b5f00f4f3ab8119",
+            "username": "mistertime"
+        },
+        "service": {
+            "hostname": "misterti.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486696962,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486696953,
+        "hash": "5eca0970300122123a1bb4beac9d976bf72cef4b7acd54b9319270acdba4adf9f09370b50c0b79586d5524ff8ed845fc4693e2ed281a9f2b5e92738d2de6437a",
+        "seqno": 865765
+    },
+    "prev": "722993b801a293c55f9a853715403bf80a1c496d4d562c39793a3a501379fa17",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguHxdMsLJPil0veCHuusWwhk4kkHdR3RjDL83FgOMaLcKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjg3YzVkMzJjMmM5M2UyOTc0YmRlMDg3YmFlYjE2YzIxOTM4OTI0MWRkNDc3NDYzMGNiZjM3MTYwMzhjNjhiNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjg3YzVkMzJjMmM5M2UyOTc0YmRlMDg3YmFlYjE2YzIxOTM4OTI0MWRkNDc3NDYzMGNiZjM3MTYwMzhjNjhiNzBhIiwidWlkIjoiMDc5N2FjNzA2MThmOTU1NjZiNWYwMGY0ZjNhYjgxMTkiLCJ1c2VybmFtZSI6Im1pc3RlcnRpbWUifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1pc3RlcnRpLm1lIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4NjY5Njk2MiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg2Njk2OTUzLCJoYXNoIjoiNWVjYTA5NzAzMDAxMjIxMjNhMWJiNGJlYWM5ZDk3NmJmNzJjZWY0YjdhY2Q1NGI5MzE5MjcwYWNkYmE0YWRmOWYwOTM3MGI1MGMwYjc5NTg2ZDU1MjRmZjhlZDg0NWZjNDY5M2UyZWQyODFhOWYyYjVlOTI3MzhkMmRlNjQzN2EiLCJzZXFubyI6ODY1NzY1fSwicHJldiI6IjcyMjk5M2I4MDFhMjkzYzU1ZjlhODUzNzE1NDAzYmY4MGExYzQ5NmQ0ZDU2MmMzOTc5M2EzYTUwMTM3OWZhMTciLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECEJscJb137YMQpf4khuQ75AisYPMaoQR+7VYnYxJJfI85DxAsMLviySDGU5T9VYFDy7cT+Je5LHp3Th3JFQvEJqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQggEYK/yQmWjjeYjjE0z6q3wlWhKTQ5gnaxcx7fyu0sWOjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mistertime
+
+==================================================================
+
